@@ -1,0 +1,37 @@
+{
+  "name": "add-to-homescreen",
+  "version": "3.2.3",
+  "description": "Add to homescreen call out for iOS and Android",
+  "authors": [
+    "Matteo Spinelli <matteo@cubiq.org> (http://cubiq.org)"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/DATA-DOG/bootstrap-modal-form/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "iPhone",
+    "iPod",
+    "iPad",
+    "iOS6",
+    "iOS7",
+    "iOS8",
+    "iOS9",
+    "iOS10",
+    "iOS11",
+    "android",
+    "mobile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DATA-DOG/add-to-homescreen"
+  },
+  "style": "style/addtohomescreen.css",
+  "main": "src/addtohomescreen.min.js",
+  "files": [
+    "src/",
+    "style/"
+  ]
+}
